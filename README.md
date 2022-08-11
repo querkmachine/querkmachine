@@ -1,6 +1,6 @@
 ![An abundance of robats](https://raw.githubusercontent.com/querkmachine/querkmachine/main/an-abundance-of-robats.png)
 
-# 👋️ Hello, I'm Kim (she/her)
+# 👋️ Hello, I'm Kim (it/they)
 
 🧑‍💻 ♿ I'm a [front-end website developer](https://berly.kim) specialising in accessibility. 
 
