@@ -1,4 +1,4 @@
-<img align="right" width="160" height="160" src="https://beeps.website/assets/images/avatar.png" alt="A white, green and black robot bat looks at and waves at you">
+<img align="right" width="160" height="160" src="https://beeps.website/assets/images/avatar-emy.png" alt="A white, green and black robot bat looks at and waves at you">
 
 Hello world, I'm **beeps**, a Bristol-based frontend developer currently working on the [GOV.UK Design System](http://design-system.service.gov.uk/), a product of the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service). 
 
