@@ -9,8 +9,8 @@ Hello world, [I'm **beeps**](https://beeps.website/about/name/), a Bristol-based
 * 🐾 …[a furry](https://beeps.website/about/furry/) (shocker). My fursona is [a shapeshifting alien critter](https://beeps.website/ash/) who represents me basically everywhere.
 * 💻 …[a civil servant and frontend developer](https://beeps.website/about/work/), but you knew that already.
 
-I write about all of the above on [my blog](https://beeps.website/blog/) and I [tootle about on Mastodon](https://chitter.xyz/@batbeeps) too.
+I write about all of the above on [my blog](https://beeps.website/blog/) and I [tootle about on Mastodon](https://social.beeps.gay/@beeps) too.
 
 The government's views are not my own. 
 
-[![Follow me on Mastodon](https://img.shields.io/mastodon/follow/109596274633188476?domain=https%3A%2F%2Fchitter.xyz)](https://chitter.xyz/@batbeeps)
+[![Follow me on Mastodon](https://img.shields.io/mastodon/follow/113392979385395767?domain=https%3A%2F%2Fsocial.beeps.gay)](https://social.beeps.gay/@beeps)
