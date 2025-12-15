@@ -1,4 +1,4 @@
-Hello world, [I'm **beeps**](https://beeps.website/about/name/), a Bristol-based frontend developer currently working on the [GOV.UK Design System](http://design-system.service.gov.uk/), a product of the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service). I care about accessibility, design systems, and the semantic web (the *real* Web 3.0). 
+Hello world, I'm [**beeps**](https://beeps.website/), a Bristol-based frontend developer currently working on the [GOV.UK Design System](http://design-system.service.gov.uk/), a product of the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service). I care about accessibility, design systems, and the semantic web (the *real* Web 3.0). 
 
 ## beeps is…
 
