@@ -13,4 +13,5 @@ I write about all of the above on [my blog](https://beeps.website/blog/) and I [
 
 The government's views are not my own. 
 
-[![Follow me on Mastodon](https://img.shields.io/mastodon/follow/113392979385395767?domain=https%3A%2F%2Fsocial.beeps.gay)](https://social.beeps.gay/@beeps)
+[![Follow me on Mastodon](https://img.shields.io/mastodon/follow/113392979385395767?domain=https%3A%2F%2Fsocial.beeps.gay)](https://social.beeps.gay/@beeps)&emsp;
+[![Follow me on Bluesky](https://img.shields.io/bluesky/followers/beeps.gay?label=Follow%20beeps.gay)](https://bsky.app/profile/beeps.gay)
